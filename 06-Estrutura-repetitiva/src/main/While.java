@@ -20,7 +20,7 @@ public class While {
 			x = scanner.nextInt();
 		}
 
-		System.out.println("A soma dos valores Ã©: " + soma);
+		System.out.println("A soma dos valores é: " + soma);
 
 		scanner.close();
 

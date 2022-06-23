@@ -23,7 +23,7 @@ public class For {
 
 		}
 
-		System.out.println("A soma dos valores Ã©: " + soma);
+		System.out.println("A soma dos valores é: " + soma);
 
 		scanner.close();
 
