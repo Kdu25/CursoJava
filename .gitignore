@@ -57,5 +57,5 @@ classes/
 /Servers/
 /.sonarlint/
 /RemoteSystemsTempFiles/
-/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties
-/.metadata/*
+/.metadata/
+/.gitignore
