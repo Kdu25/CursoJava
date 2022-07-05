@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="heranca"/>
 	<classpathentry kind="src" path="upcasting-e-downcasting"/>
 	<classpathentry kind="src" path="sobreposicao"/>
+	<classpathentry kind="src" path="polimorfismo"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
