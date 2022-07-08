@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="upcasting-e-downcasting"/>
 	<classpathentry kind="src" path="sobreposicao"/>
 	<classpathentry kind="src" path="polimorfismo"/>
+	<classpathentry kind="src" path="exercicio-resolvido-metodo-abstrato"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
