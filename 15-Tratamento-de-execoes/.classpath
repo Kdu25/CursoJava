@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="try-catch"/>
 	<classpathentry kind="src" path="finally"/>
 	<classpathentry kind="src" path="execoes-personalizadas"/>
+	<classpathentry kind="src" path="exercicio-de-fixação"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
